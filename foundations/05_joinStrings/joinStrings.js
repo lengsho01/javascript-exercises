@@ -9,6 +9,14 @@
 
 // Add your code right below, good luck!
 
+const firstName = "Carlos";
+const lastName = "leng";
+const thisYear = 2025;
+const birthYear = 1997;
+
+console.log("My name is, " + "firstName", " " + "lastName", " " + " and  i am"  )
+
+
 
 
 
